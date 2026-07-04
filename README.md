@@ -22,6 +22,8 @@ blog/         Published blog posts
 | Topic | Path |
 |-------|------|
 | GCP IAM deep-dive | [gcp/iam-deep-dive.md](gcp/iam-deep-dive.md) |
+| AWS IAM patterns | [aws/aws-iam-patterns.md](aws/aws-iam-patterns.md) |
+| Azure Entra ID patterns | [azure/azure-entraid-patterns.md](azure/azure-entraid-patterns.md) |
 | AWS → GCP via WIF | [cross-cloud/aws-to-gcp-wif.md](cross-cloud/aws-to-gcp-wif.md) |
 | Azure → GCP via WIF | [cross-cloud/azure-to-gcp-wif.md](cross-cloud/azure-to-gcp-wif.md) |
 | Okta as external IdP | [okta/okta-as-idp.md](okta/okta-as-idp.md) |
