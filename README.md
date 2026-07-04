@@ -22,8 +22,8 @@ blog/         Published blog posts
 | Topic | Path |
 |-------|------|
 | GCP IAM deep-dive | [gcp/iam-deep-dive.md](gcp/iam-deep-dive.md) |
-| AWS identity patterns | [aws/README.md](aws/README.md) |
-| Azure identity patterns | [azure/README.md](azure/README.md) |
+| AWS → GCP via WIF | [cross-cloud/aws-to-gcp-wif.md](cross-cloud/aws-to-gcp-wif.md) |
+| Azure → GCP via WIF | [cross-cloud/azure-to-gcp-wif.md](cross-cloud/azure-to-gcp-wif.md) |
 | Okta as external IdP | [okta/okta-as-idp.md](okta/okta-as-idp.md) |
 | Multi-cloud comparison matrix | [cross-cloud/comparison-matrix.md](cross-cloud/comparison-matrix.md) |
 | WIF best practices (blog) | [blog/wif-best-practices.md](blog/wif-best-practices.md) |
